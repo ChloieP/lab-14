@@ -10,12 +10,12 @@ Finish time: 3:31pm
 
 Actual time needed to complete: 24 minutes
 
-#Name of feature: 
+#Name of feature: Database Migration
 
-Estimate of time needed to complete:  minutes
+Estimate of time needed to complete:  30 minutes
 
-Start time: 
+Start time: 3:33pm
 
-Finish time: 
+Finish time: 3:46pm
 
-Actual time needed to complete:  minutes
+Actual time needed to complete: 13 minutes
